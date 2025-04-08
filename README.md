@@ -4,6 +4,10 @@ I am a seasoned Data Analyst with a MSc degree in Biomedical Engineering. Curren
 
 In the past year, I have further developed my data science expertise through online courses and hands-on projects, showcasing my ability to derive meaningful conclusions from raw data. I am eager to leverage my skills in roles such as Data Analyst, Research Data Analyst, and Data Scientist. I bring a self-driven, detail-oriented approach to every project and am passionate about using data to drive strategic success. Let’s connect if you’re looking for a data-focused team member who thrives on finding solutions through data!
 
+You can view my portfolio website here: [Portfolio](https://mayak1988.github.io/)
+
+The projects I've been working on lately can be seen here: [Data Science Projects](https://github.com/mayak1988/Data_Science_Projects)
+
 - 🔭 I’m currently working on DL project to denoise DMI images (work related)
 - 🌱 I’m currently learning various ML and DL tools to improve my Data science skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maya-kovalevsky/)

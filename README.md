@@ -11,6 +11,6 @@ The projects I've been working on lately can be seen here: [Data Science Project
 - 🔭 I’m currently working on DL project to denoise DMI images (work related)
 - 🌱 I’m currently learning various ML and DL tools to improve my Data science skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maya-kovalevsky/)
-- ⚡ Fun fact: I eat mango and kiwi with its skin 😅, i drive using both my legs 😆
+- ⚡ Fun fact: I eat mango and kiwi with its skin 😅, i drive using both my feet 😆
 - 🏊‍♀️ Hobbies: Swimming is my passion, chlorine is my perfume
 
